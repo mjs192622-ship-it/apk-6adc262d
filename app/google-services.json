@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "1025784042622",
+        "project_id": "the-chocolate-story",
+        "storage_bucket": "the-chocolate-story.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1025784042622:android:9fae67d1f86293dd5c742f",
+                "android_client_info": {
+                    "package_name": "com.thechocolatestoryadmin.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1025784042622-6qdglfqegjto136ejq07h9602j0mr43n.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyB_ACM7AihZwxXZq7kCo6xjjjSs0sOXRRY"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1025784042622-6qdglfqegjto136ejq07h9602j0mr43n.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
