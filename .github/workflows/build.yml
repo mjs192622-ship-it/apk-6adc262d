@@ -52,7 +52,11 @@ jobs:
           distribution: 'temurin'
 
       - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
+  uses: android-actions/setup-android@v4
+  with:
+    accept-android-sdk-licenses: 'true'
+    log-accepted-android-sdk-licenses: 'false'
+    packages: 'platform-tools'
 
       - name: Install required Android SDK packages
         shell: bash
